@@ -17,6 +17,6 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(number){
   var list=[]
   do {
-    list
+  var string ="I love the Beatles!"
   }
 }
